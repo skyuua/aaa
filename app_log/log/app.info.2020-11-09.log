@@ -1,0 +1,679 @@
+2020-11-09 11:57:47.570 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 232 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 11:57:47.576 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-09 11:57:47.754 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-11-09 11:57:47.754 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-11-09 11:57:49.427 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 11:57:49.443 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 11:57:49.453 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 11:57:49.453 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 11:57:49.575 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 11:57:49.576 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 1821 ms
+2020-11-09 11:57:50.430 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-09 11:57:56.651 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-09 11:57:56.681 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-09 11:57:56.705 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-09 11:57:56.710 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 10.218 seconds (JVM running for 11.848)
+2020-11-09 18:55:26.216 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 16712 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 18:55:26.220 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-09 18:55:26.294 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-11-09 18:55:26.295 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-11-09 18:55:28.670 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 18:55:28.695 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 18:55:28.707 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 18:55:28.708 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 18:55:28.910 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 18:55:28.911 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 2616 ms
+2020-11-09 18:55:30.760 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-09 18:55:33.635 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-09 18:55:33.684 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-09 18:55:33.724 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-09 18:55:33.732 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 8.35 seconds (JVM running for 10.591)
+2020-11-09 19:12:02.328 INFO [Thread-23]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-09 19:12:03.005 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 16712 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 19:12:03.005 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-09 19:12:03.987 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 19:12:03.992 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 19:12:03.994 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 19:12:03.996 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 19:12:04.080 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 19:12:04.080 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 1070 ms
+2020-11-09 19:12:04.563 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-09 19:12:05.499 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-09 19:12:05.561 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-09 19:12:05.564 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-09 19:12:05.569 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 2.618 seconds (JVM running for 1002.429)
+2020-11-09 19:12:05.573 INFO [restartedMain]o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent:63 -Condition evaluation unchanged
+2020-11-09 19:18:23.732 INFO [Thread-31]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-09 19:18:24.472 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 16712 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 19:18:24.473 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-09 19:18:25.606 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 19:18:25.608 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 19:18:25.609 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 19:18:25.610 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 19:18:25.646 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 19:18:25.647 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 1169 ms
+2020-11-09 19:18:26.114 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-09 19:18:27.063 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-09 19:18:27.098 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-09 19:18:27.105 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-09 19:18:27.107 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 2.703 seconds (JVM running for 1383.967)
+2020-11-09 19:18:27.111 INFO [restartedMain]o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent:63 -Condition evaluation unchanged
+2020-11-09 19:22:48.405 INFO [Thread-37]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-09 19:22:49.202 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 16712 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 19:22:49.203 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-09 19:22:49.964 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 19:22:49.965 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 19:22:49.966 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 19:22:49.966 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 19:22:49.992 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 19:22:49.994 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 787 ms
+2020-11-09 19:22:50.344 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-09 19:22:51.410 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-09 19:22:51.445 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-09 19:22:51.455 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-09 19:22:51.456 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 2.303 seconds (JVM running for 1648.316)
+2020-11-09 19:22:51.471 INFO [restartedMain]o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent:63 -Condition evaluation unchanged
+2020-11-09 19:24:57.035 INFO [Thread-43]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-09 19:24:57.548 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 16712 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 19:24:57.548 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-09 19:24:58.156 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 19:24:58.157 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 19:24:58.158 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 19:24:58.158 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 19:24:58.186 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 19:24:58.187 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 635 ms
+2020-11-09 19:24:58.541 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-09 19:24:59.466 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-09 19:24:59.487 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-09 19:24:59.494 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-09 19:24:59.496 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 1.981 seconds (JVM running for 1776.356)
+2020-11-09 19:24:59.500 INFO [restartedMain]o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent:63 -Condition evaluation unchanged
+2020-11-09 19:26:11.495 INFO [Thread-49]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-09 19:26:12.947 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 16712 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 19:26:12.947 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-09 19:26:14.280 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 19:26:14.283 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 19:26:14.284 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 19:26:14.284 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 19:26:14.320 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 19:26:14.321 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 1369 ms
+2020-11-09 19:26:16.109 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-09 19:26:17.778 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-09 19:26:17.810 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-09 19:26:17.814 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-09 19:26:17.892 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 5.021 seconds (JVM running for 1854.751)
+2020-11-09 19:26:17.911 INFO [restartedMain]o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent:63 -Condition evaluation unchanged
+2020-11-09 19:26:56.099 INFO [Thread-55]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-09 19:26:57.220 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 16712 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 19:26:57.220 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:647 -No active profile set, falling back to default profiles: default
+2020-11-09 19:26:58.034 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 19:26:58.035 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 19:26:58.035 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 19:26:58.036 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 19:26:58.062 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 19:26:58.063 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 838 ms
+2020-11-09 19:26:58.158 WARN [restartedMain]o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext.refresh:557 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'adminController': Unsatisfied dependency expressed through field 'menuService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'menuServiceImpl': Unsatisfied dependency expressed through field 'menuMapper'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'menuMapper' defined in file [D:\IDEA_project\FruitAndVegetableShop\target\classes\com\yjq\programmer\dao\admin\MenuMapper.class]: Unsatisfied dependency expressed through bean property 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.class]: Unsatisfied dependency expressed through method 'sqlSessionFactory' parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException: Failed to determine a suitable driver class
+2020-11-09 19:26:58.159 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Stopping service [Tomcat]
+2020-11-09 19:26:58.171 INFO [restartedMain]o.s.b.a.logging.ConditionEvaluationReportLoggingListener.logMessage:136 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-11-09 19:27:04.549 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 16712 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 19:27:04.551 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-09 19:27:06.495 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 19:27:06.498 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 19:27:06.532 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 19:27:06.532 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 19:27:06.650 INFO [restartedMain]o.a.c.core.ContainerBase.[Tomcat-1].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 19:27:06.650 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 2095 ms
+2020-11-09 19:27:07.323 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-09 19:27:08.202 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-09 19:27:08.228 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-09 19:27:08.235 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-09 19:27:08.236 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 3.754 seconds (JVM running for 1905.096)
+2020-11-09 19:27:08.239 INFO [restartedMain]o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent:63 -Condition evaluation unchanged
+2020-11-09 19:27:26.856 INFO [Thread-61]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-09 19:27:27.740 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 16712 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 19:27:27.741 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-09 19:27:28.540 WARN [restartedMain]org.mybatis.spring.mapper.ClassPathMapperScanner.warn:44 -No MyBatis mapper was found in '[com.yjq.programmer.dao.admin, com.yjq.programmer.dao.home, com.yjq.programmer.dao.common]' package. Please check your configuration.
+2020-11-09 19:27:29.610 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 19:27:29.620 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 19:27:29.623 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 19:27:29.624 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 19:27:29.805 INFO [restartedMain]o.a.c.core.ContainerBase.[Tomcat-1].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 19:27:29.806 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 2060 ms
+2020-11-09 19:27:30.131 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-09 19:27:30.515 WARN [restartedMain]o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext.refresh:557 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.apache.ibatis.session.SqlSessionFactory]: Factory method 'sqlSessionFactory' threw exception; nested exception is org.springframework.core.NestedIOException: Failed to parse mapping resource: 'file [D:\IDEA_project\FruitAndVegetableShop\target\classes\mappers\admin\AdminMapper.xml]'; nested exception is org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. The XML location is 'file [D:\IDEA_project\FruitAndVegetableShop\target\classes\mappers\admin\AdminMapper.xml]'. Cause: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'com.yjq.programmer.pojo.admin.Admin'.  Cause: java.lang.ClassNotFoundException: Cannot find class: com.yjq.programmer.pojo.admin.Admin
+2020-11-09 19:27:30.515 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-09 19:27:30.516 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Stopping service [Tomcat]
+2020-11-09 19:27:30.528 INFO [restartedMain]o.s.b.a.logging.ConditionEvaluationReportLoggingListener.logMessage:136 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-11-09 19:27:36.632 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 16712 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 19:27:36.632 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-09 19:27:38.869 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 19:27:38.870 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 19:27:38.871 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 19:27:38.872 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 19:27:38.904 INFO [restartedMain]o.a.c.core.ContainerBase.[Tomcat-2].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 19:27:38.905 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 2270 ms
+2020-11-09 19:27:39.306 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-09 19:27:40.142 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-09 19:27:40.167 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-09 19:27:40.171 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-09 19:27:40.172 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 3.873 seconds (JVM running for 1937.032)
+2020-11-09 19:27:40.174 INFO [restartedMain]o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent:63 -Condition evaluation unchanged
+2020-11-09 19:28:07.897 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 21472 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 19:28:07.903 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-09 19:28:07.986 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-11-09 19:28:07.987 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-11-09 19:28:11.279 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 19:28:11.306 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 19:28:11.319 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 19:28:11.320 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 19:28:11.615 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 19:28:11.616 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 3629 ms
+2020-11-09 19:28:13.365 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-09 19:28:15.398 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-09 19:28:15.444 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-09 19:28:15.480 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-09 19:28:15.485 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 8.553 seconds (JVM running for 10.468)
+2020-11-09 19:28:48.312 INFO [http-nio-8080-exec-2]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-09 19:28:48.313 INFO [http-nio-8080-exec-2]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-11-09 19:28:48.337 INFO [http-nio-8080-exec-2]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 23 ms
+2020-11-09 19:28:49.084 INFO [http-nio-8080-exec-4]com.yjq.programmer.controller.common.CpachaController.generateCpacha:51 -验证码成功生成，method=user_register,value=sMRe
+2020-11-09 19:28:55.797 INFO [http-nio-8080-exec-6]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-11-09 19:28:56.278 INFO [http-nio-8080-exec-6]com.zaxxer.hikari.pool.PoolBase.getAndSetNetworkTimeout:525 -HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2020-11-09 19:28:56.285 INFO [http-nio-8080-exec-6]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-11-09 19:29:25.261 INFO [http-nio-8080-exec-5]com.yjq.programmer.controller.common.CpachaController.generateCpacha:51 -验证码成功生成，method=user_register,value=acpC
+2020-11-09 19:31:47.546 INFO [Thread-22]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-09 19:31:47.547 INFO [Thread-22]com.zaxxer.hikari.HikariDataSource.close:350 -HikariPool-1 - Shutdown initiated...
+2020-11-09 19:31:47.554 INFO [Thread-22]com.zaxxer.hikari.HikariDataSource.close:352 -HikariPool-1 - Shutdown completed.
+2020-11-09 19:31:48.081 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 21472 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 19:31:48.082 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-09 19:31:48.774 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 19:31:48.776 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 19:31:48.776 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 19:31:48.777 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 19:31:48.812 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 19:31:48.812 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 727 ms
+2020-11-09 19:31:49.266 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-09 19:31:50.518 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-09 19:31:50.548 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-09 19:31:50.553 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-09 19:31:50.555 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 2.521 seconds (JVM running for 225.537)
+2020-11-09 19:31:50.558 INFO [restartedMain]o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent:63 -Condition evaluation unchanged
+2020-11-09 19:32:15.626 INFO [Thread-32]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-09 19:32:16.466 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 21472 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 19:32:16.467 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-09 19:32:17.194 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 19:32:17.196 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 19:32:17.198 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 19:32:17.199 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 19:32:17.283 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 19:32:17.284 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 814 ms
+2020-11-09 19:32:17.883 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-09 19:32:19.039 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-09 19:32:19.079 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-09 19:32:19.085 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-09 19:32:19.086 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 2.668 seconds (JVM running for 254.068)
+2020-11-09 19:32:19.090 INFO [restartedMain]o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent:63 -Condition evaluation unchanged
+2020-11-09 19:32:33.179 INFO [Thread-38]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-09 19:32:34.558 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 21472 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 19:32:34.559 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-09 19:32:35.498 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 19:32:35.500 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 19:32:35.501 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 19:32:35.502 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 19:32:35.536 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 19:32:35.536 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 973 ms
+2020-11-09 19:32:36.041 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-09 19:32:36.976 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-09 19:32:37.023 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-09 19:32:37.029 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-09 19:32:37.030 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 2.543 seconds (JVM running for 272.013)
+2020-11-09 19:32:37.033 INFO [restartedMain]o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent:63 -Condition evaluation unchanged
+2020-11-09 19:35:01.272 INFO [Thread-44]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-09 19:35:02.708 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 21472 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 19:35:02.709 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-09 19:35:04.097 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 19:35:04.099 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 19:35:04.101 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 19:35:04.101 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 19:35:04.146 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 19:35:04.149 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 1437 ms
+2020-11-09 19:35:04.672 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-09 19:35:05.592 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-09 19:35:05.659 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-09 19:35:05.665 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-09 19:35:05.666 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 2.998 seconds (JVM running for 420.649)
+2020-11-09 19:35:05.694 INFO [restartedMain]o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent:63 -Condition evaluation unchanged
+2020-11-09 19:35:19.355 INFO [Thread-50]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-09 19:35:20.067 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 21472 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 19:35:20.067 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-09 19:35:21.526 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 19:35:21.541 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 19:35:21.542 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 19:35:21.543 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 19:35:21.605 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 19:35:21.608 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 1536 ms
+2020-11-09 19:35:22.826 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-09 19:35:24.182 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-09 19:35:24.217 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-09 19:35:24.223 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-09 19:35:24.224 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 4.219 seconds (JVM running for 439.206)
+2020-11-09 19:35:24.228 INFO [restartedMain]o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent:63 -Condition evaluation unchanged
+2020-11-09 19:36:21.031 INFO [Thread-56]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-09 19:36:21.783 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 21472 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 19:36:21.783 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-09 19:36:23.129 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 19:36:23.130 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 19:36:23.131 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 19:36:23.132 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 19:36:23.175 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 19:36:23.175 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 1387 ms
+2020-11-09 19:36:23.855 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-09 19:36:25.245 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-09 19:36:25.282 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-09 19:36:25.291 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-09 19:36:25.292 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 3.61 seconds (JVM running for 500.274)
+2020-11-09 19:36:25.295 INFO [restartedMain]o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent:63 -Condition evaluation unchanged
+2020-11-09 19:36:31.607 INFO [Thread-62]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-09 19:36:32.325 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 21472 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 19:36:32.325 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-09 19:36:33.091 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 19:36:33.092 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 19:36:33.094 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 19:36:33.094 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 19:36:33.129 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 19:36:33.131 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 803 ms
+2020-11-09 19:36:33.620 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-09 19:36:34.572 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-09 19:36:34.595 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-09 19:36:34.600 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-09 19:36:34.602 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 2.34 seconds (JVM running for 509.584)
+2020-11-09 19:36:34.605 INFO [restartedMain]o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent:63 -Condition evaluation unchanged
+2020-11-09 19:40:14.047 INFO [Thread-68]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-09 19:40:15.164 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 21472 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 19:40:15.165 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-09 19:40:16.086 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 19:40:16.087 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 19:40:16.088 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 19:40:16.089 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 19:40:16.121 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 19:40:16.121 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 953 ms
+2020-11-09 19:40:16.564 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-09 19:40:17.596 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-09 19:40:17.631 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-09 19:40:17.637 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-09 19:40:17.638 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 2.529 seconds (JVM running for 732.621)
+2020-11-09 19:40:17.640 INFO [restartedMain]o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent:63 -Condition evaluation unchanged
+2020-11-09 19:41:49.111 INFO [Thread-74]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-09 19:41:50.592 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 21472 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 19:41:50.594 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-09 19:41:51.933 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 19:41:51.935 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 19:41:51.936 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 19:41:51.937 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 19:41:52.254 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 19:41:52.255 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 1652 ms
+2020-11-09 19:41:54.116 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-09 20:12:33.572 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 17100 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 20:12:33.585 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-09 20:12:33.759 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-11-09 20:12:33.760 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-11-09 20:12:37.815 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 20:12:37.848 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 20:12:37.870 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 20:12:37.871 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 20:12:38.257 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 20:12:38.258 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 4498 ms
+2020-11-09 20:12:40.135 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-09 20:12:43.310 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-09 20:12:43.364 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-09 20:12:43.407 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-09 20:12:43.414 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 11.038 seconds (JVM running for 14.51)
+2020-11-09 20:13:01.290 INFO [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-09 20:13:01.291 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-11-09 20:13:01.312 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 20 ms
+2020-11-09 20:13:14.135 INFO [http-nio-8080-exec-2]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-11-09 20:13:14.660 INFO [http-nio-8080-exec-2]com.zaxxer.hikari.pool.PoolBase.getAndSetNetworkTimeout:525 -HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2020-11-09 20:13:14.672 INFO [http-nio-8080-exec-2]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-11-09 20:13:15.047 INFO [http-nio-8080-exec-2]com.yjq.programmer.util.JWTUtil.getToken:46 -生成的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJleHAiOjE2MDU1Mjg3OTQsInVzZXJuYW1lIjoi5p2o5p2o5ZCWIn0.FWjCt8ILpst2_QvYMXvuXD-3FdSKYEF2U4bWiQClV9w
+2020-11-09 20:13:31.759 INFO [http-nio-8080-exec-5]com.yjq.programmer.util.JWTUtil.getToken:46 -生成的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJleHAiOjE2MDU1Mjg4MTEsInVzZXJuYW1lIjoi5p2o5p2o5ZCWIn0.ztgYuJWNsxKFi0x2Q6LXxeGY32g-G61fnavpvZWc-x4
+2020-11-09 20:28:12.044 INFO [Thread-27]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-09 20:28:12.047 INFO [Thread-27]com.zaxxer.hikari.HikariDataSource.close:350 -HikariPool-1 - Shutdown initiated...
+2020-11-09 20:28:12.152 INFO [Thread-27]com.zaxxer.hikari.HikariDataSource.close:352 -HikariPool-1 - Shutdown completed.
+2020-11-09 20:28:14.083 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 17100 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 20:28:14.084 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-09 20:28:16.312 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 20:28:16.318 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 20:28:16.320 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 20:28:16.321 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 20:28:16.470 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 20:28:16.473 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 2364 ms
+2020-11-09 20:28:17.367 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-09 20:28:18.532 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-09 20:28:18.590 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-09 20:28:18.604 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-09 20:28:18.607 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 4.709 seconds (JVM running for 949.703)
+2020-11-09 20:28:18.613 INFO [restartedMain]o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent:63 -Condition evaluation unchanged
+2020-11-09 20:42:06.197 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 21620 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 20:42:06.202 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-09 20:42:06.282 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-11-09 20:42:06.282 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-11-09 20:42:09.453 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 20:42:09.490 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 20:42:09.515 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 20:42:09.516 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 20:42:09.897 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 20:42:09.899 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 3616 ms
+2020-11-09 20:42:12.811 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-09 20:42:15.045 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-09 20:42:15.088 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-09 20:42:15.123 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-09 20:42:15.128 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 9.842 seconds (JVM running for 11.583)
+2020-11-09 20:42:51.771 INFO [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-09 20:42:51.772 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-11-09 20:42:51.806 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 33 ms
+2020-11-09 20:43:00.954 INFO [http-nio-8080-exec-3]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-11-09 20:43:01.522 INFO [http-nio-8080-exec-3]com.zaxxer.hikari.pool.PoolBase.getAndSetNetworkTimeout:525 -HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2020-11-09 20:43:01.530 INFO [http-nio-8080-exec-3]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-11-09 20:43:01.733 INFO [http-nio-8080-exec-3]com.yjq.programmer.util.JWTUtil.getToken:46 -生成的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJleHAiOjE2MDU1MzA1ODEsInVzZXJuYW1lIjoi5p2o5p2o5ZCWIn0.ppq1pBAqIHNJ6ENKj-PZivK5KIDN5mKkgxBDf8CCwNU
+2020-11-09 20:43:37.363 INFO [http-nio-8080-exec-10]com.yjq.programmer.controller.common.CpachaController.generateCpacha:51 -验证码成功生成，method=user_register,value=VSqr
+2020-11-09 20:45:49.759 INFO [http-nio-8080-exec-3]com.yjq.programmer.util.JWTUtil.getToken:46 -生成的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJleHAiOjE2MDU1MzA3NDksInVzZXJuYW1lIjoi5p2o5p2o5ZCWIn0.l3yAUokxRDV5TnpQIl0g3-R4jWE2O3QfEmuwIi1SC8E
+2020-11-09 20:45:53.681 INFO [http-nio-8080-exec-4]com.yjq.programmer.controller.common.CpachaController.generateCpacha:51 -验证码成功生成，method=user_register,value=McDR
+2020-11-09 20:49:51.060 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 12136 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 20:49:51.067 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-09 20:49:51.289 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-11-09 20:49:51.292 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-11-09 20:49:58.723 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 20:49:58.773 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 20:49:58.816 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 20:49:58.819 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 20:49:59.337 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 20:49:59.338 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 8045 ms
+2020-11-09 20:50:03.044 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-09 20:50:09.153 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-09 20:50:09.315 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-09 20:50:09.436 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-09 20:50:09.450 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 19.848 seconds (JVM running for 21.669)
+2020-11-09 20:56:05.189 INFO [http-nio-8080-exec-10]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-09 20:56:05.189 INFO [http-nio-8080-exec-10]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-11-09 20:56:05.197 INFO [http-nio-8080-exec-10]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 8 ms
+2020-11-09 20:56:52.203 INFO [http-nio-8080-exec-2]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-11-09 20:56:52.437 INFO [http-nio-8080-exec-2]com.zaxxer.hikari.pool.PoolBase.getAndSetNetworkTimeout:525 -HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2020-11-09 20:56:52.443 INFO [http-nio-8080-exec-2]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-11-09 20:56:52.571 INFO [http-nio-8080-exec-2]com.yjq.programmer.util.JWTUtil.getToken:46 -生成的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJleHAiOjE2MDU1MzE0MTIsInVzZXJuYW1lIjoi5p2o5p2o5ZCWIn0.S0PxZKdQ5D7mjk5WzVPDPlnwZtSm7AYA5WOt2bdcxvc
+2020-11-09 20:58:35.837 INFO [http-nio-8080-exec-7]com.yjq.programmer.util.JWTUtil.getToken:46 -生成的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJleHAiOjE2MDU1MzE1MTUsInVzZXJuYW1lIjoi5p2o5p2o5ZCWIn0.GsQd1ROK8PKdJP2ZmvozwXJ90kQImZHHUKiw9QLinKo
+2020-11-09 21:10:16.011 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 20240 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 21:10:16.016 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-09 21:10:16.146 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-11-09 21:10:16.146 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-11-09 21:10:19.462 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 21:10:19.484 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 21:10:19.500 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 21:10:19.501 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 21:10:19.704 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 21:10:19.706 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 3558 ms
+2020-11-09 21:10:21.084 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-09 21:10:23.363 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-09 21:10:23.406 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-09 21:10:23.437 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-09 21:10:23.443 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 8.181 seconds (JVM running for 9.774)
+2020-11-09 21:11:24.727 INFO [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-09 21:11:24.728 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-11-09 21:11:24.741 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 13 ms
+2020-11-09 21:34:03.962 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 13364 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 21:34:03.977 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-09 21:34:04.185 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-11-09 21:34:04.187 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-11-09 21:34:08.325 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 21:34:08.361 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 21:34:08.388 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 21:34:08.389 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 21:34:08.800 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 21:34:08.801 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 4614 ms
+2020-11-09 21:34:11.444 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-09 21:34:13.440 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-09 21:34:13.485 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-09 21:34:13.513 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-09 21:34:13.518 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 10.919 seconds (JVM running for 13.399)
+2020-11-09 21:34:25.257 INFO [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-09 21:34:25.258 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-11-09 21:34:25.282 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 24 ms
+2020-11-09 21:42:22.836 INFO [Thread-27]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-09 21:42:24.239 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 13364 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 21:42:24.240 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-09 21:42:25.543 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 21:42:25.545 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 21:42:25.547 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 21:42:25.547 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 21:42:25.607 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 21:42:25.608 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 1362 ms
+2020-11-09 21:42:26.312 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-09 21:42:27.350 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-09 21:42:27.420 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-09 21:42:27.427 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-09 21:42:27.429 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 3.278 seconds (JVM running for 507.31)
+2020-11-09 21:42:27.435 INFO [restartedMain]o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent:63 -Condition evaluation unchanged
+2020-11-09 22:27:29.591 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 13056 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 22:27:29.599 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-09 22:27:29.782 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-11-09 22:27:29.782 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-11-09 22:27:33.578 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 22:27:33.608 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 22:27:33.628 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 22:27:33.629 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 22:27:33.938 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 22:27:33.938 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 4155 ms
+2020-11-09 22:27:35.279 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-09 22:27:37.187 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-09 22:27:37.223 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-09 22:27:37.254 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-09 22:27:37.262 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 8.791 seconds (JVM running for 11.7)
+2020-11-09 22:27:45.577 INFO [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-09 22:27:45.578 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-11-09 22:27:45.607 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 28 ms
+2020-11-09 22:27:46.319 INFO [http-nio-8080-exec-6]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:42 -用户还未登录或者token失效，当前URL=/home/common/cookie_token.js
+2020-11-09 22:27:46.318 INFO [http-nio-8080-exec-10]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:42 -用户还未登录或者token失效，当前URL=/home/common/confirm_null.js
+2020-11-09 22:27:52.556 INFO [http-nio-8080-exec-1]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:42 -用户还未登录或者token失效，当前URL=/home/common/cookie_token.js
+2020-11-09 22:27:52.557 INFO [http-nio-8080-exec-7]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:42 -用户还未登录或者token失效，当前URL=/home/common/confirm_null.js
+2020-11-09 22:27:52.715 INFO [http-nio-8080-exec-3]com.yjq.programmer.controller.common.CpachaController.generateCpacha:51 -验证码成功生成，method=user_register,value=e7HY
+2020-11-09 22:27:58.656 INFO [http-nio-8080-exec-5]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:42 -用户还未登录或者token失效，当前URL=/home/common/confirm_null.js
+2020-11-09 22:27:58.656 INFO [http-nio-8080-exec-1]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:42 -用户还未登录或者token失效，当前URL=/home/common/cookie_token.js
+2020-11-09 22:29:07.159 INFO [Thread-23]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-09 22:29:08.004 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 13056 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 22:29:08.006 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-09 22:29:09.360 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 22:29:09.362 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 22:29:09.366 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 22:29:09.367 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 22:29:09.499 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 22:29:09.501 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 1489 ms
+2020-11-09 22:29:10.265 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-09 22:29:11.170 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-09 22:29:11.205 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-09 22:29:11.210 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-09 22:29:11.212 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 3.291 seconds (JVM running for 105.65)
+2020-11-09 22:29:11.218 INFO [restartedMain]o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent:63 -Condition evaluation unchanged
+2020-11-09 22:29:50.325 INFO [Thread-32]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-09 22:29:51.395 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 13056 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 22:29:51.396 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-09 22:29:53.263 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 22:29:53.268 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 22:29:53.272 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 22:29:53.277 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 22:29:53.360 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 22:29:53.360 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 1957 ms
+2020-11-09 22:29:54.364 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-09 22:29:55.683 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-09 22:29:55.798 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-09 22:29:55.808 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-09 22:29:55.809 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 4.48 seconds (JVM running for 150.247)
+2020-11-09 22:29:55.830 INFO [restartedMain]o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent:63 -Condition evaluation unchanged
+2020-11-09 22:30:33.651 INFO [http-nio-8080-exec-10]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-09 22:30:33.653 INFO [http-nio-8080-exec-10]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-11-09 22:30:33.664 INFO [http-nio-8080-exec-10]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 10 ms
+2020-11-09 22:32:27.268 INFO [http-nio-8080-exec-5]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-11-09 22:32:27.466 INFO [http-nio-8080-exec-5]com.zaxxer.hikari.pool.PoolBase.getAndSetNetworkTimeout:525 -HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2020-11-09 22:32:27.473 INFO [http-nio-8080-exec-5]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-11-09 22:32:27.588 INFO [http-nio-8080-exec-5]com.yjq.programmer.util.JWTUtil.getToken:46 -生成的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJleHAiOjE2MDU1MzcxNDcsInVzZXJuYW1lIjoi5p2o5p2o5ZCWIn0.LsUe9KXzNFB7DItXCRfIdpHEFcCYk1b3_peNJpRM-QU
+2020-11-09 22:32:27.783 INFO [http-nio-8080-exec-8]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:42 -用户还未登录或者token失效，当前URL=/home/system/js/slider.js
+2020-11-09 22:32:32.723 INFO [http-nio-8080-exec-5]com.yjq.programmer.controller.common.CpachaController.generateCpacha:51 -验证码成功生成，method=user_register,value=5iBh
+2020-11-09 22:32:39.530 INFO [http-nio-8080-exec-10]com.yjq.programmer.controller.common.CpachaController.generateCpacha:51 -验证码成功生成，method=user_register,value=fggW
+2020-11-09 22:32:44.139 INFO [http-nio-8080-exec-4]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:42 -用户还未登录或者token失效，当前URL=/home/system/js/slider.js
+2020-11-09 22:32:59.441 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 22988 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 22:32:59.448 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-09 22:32:59.689 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-11-09 22:32:59.690 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-11-09 22:33:03.478 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 22:33:03.509 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 22:33:03.529 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 22:33:03.530 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 22:33:03.851 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 22:33:03.852 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 4161 ms
+2020-11-09 22:33:05.513 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-09 22:33:08.046 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-09 22:33:08.094 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-09 22:33:08.132 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-09 22:33:08.137 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 9.593 seconds (JVM running for 11.157)
+2020-11-09 22:33:27.120 INFO [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-09 22:33:27.120 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-11-09 22:33:27.138 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 17 ms
+2020-11-09 22:33:27.624 INFO [http-nio-8080-exec-4]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:42 -用户还未登录或者token失效，当前URL=/home/system/js/slider.js
+2020-11-09 22:34:11.199 INFO [http-nio-8080-exec-5]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:42 -用户还未登录或者token失效，当前URL=/home/system/js/slider.js
+2020-11-09 22:36:33.594 INFO [http-nio-8080-exec-3]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:42 -用户还未登录或者token失效，当前URL=/home/user/undefined
+2020-11-09 22:36:34.757 INFO [http-nio-8080-exec-2]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:42 -用户还未登录或者token失效，当前URL=/home/user/undefined
+2020-11-09 22:36:38.509 INFO [http-nio-8080-exec-3]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:42 -用户还未登录或者token失效，当前URL=/home/system/js/slider.js
+2020-11-09 22:36:55.127 INFO [http-nio-8080-exec-5]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:42 -用户还未登录或者token失效，当前URL=/home/system/js/slider.js
+2020-11-09 22:37:45.461 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 9276 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 22:37:45.467 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-09 22:37:45.573 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-11-09 22:37:45.576 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-11-09 22:37:51.679 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 22:37:51.723 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 22:37:51.813 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 22:37:51.824 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 22:37:52.405 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 22:37:52.406 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 6829 ms
+2020-11-09 22:37:54.440 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-09 22:37:57.060 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-09 22:37:57.205 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-09 22:37:57.277 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-09 22:37:57.294 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 13.0 seconds (JVM running for 14.94)
+2020-11-09 22:38:44.983 INFO [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-09 22:38:44.985 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-11-09 22:38:45.009 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 23 ms
+2020-11-09 22:38:51.471 INFO [http-nio-8080-exec-4]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:42 -用户还未登录或者token失效，当前URL=/home/user/undefined
+2020-11-09 22:39:09.055 INFO [http-nio-8080-exec-3]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:42 -用户还未登录或者token失效，当前URL=/home/system/js/slider.js
+2020-11-09 22:39:16.567 INFO [http-nio-8080-exec-6]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:42 -用户还未登录或者token失效，当前URL=/home/system/js/slider.js
+2020-11-09 22:39:26.497 INFO [http-nio-8080-exec-6]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-11-09 22:39:26.672 INFO [http-nio-8080-exec-6]com.zaxxer.hikari.pool.PoolBase.getAndSetNetworkTimeout:525 -HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2020-11-09 22:39:26.676 INFO [http-nio-8080-exec-6]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-11-09 22:39:26.788 INFO [http-nio-8080-exec-6]com.yjq.programmer.util.JWTUtil.getToken:46 -生成的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJleHAiOjE2MDU1Mzc1NjYsInVzZXJuYW1lIjoi5p2o5p2o5ZCWIn0.ERFvAXLecWn-96ns8CClW2LpBvgRKjBYq1K26ndRHOM
+2020-11-09 22:39:26.922 INFO [http-nio-8080-exec-3]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:42 -用户还未登录或者token失效，当前URL=/home/system/js/slider.js
+2020-11-09 22:41:37.008 INFO [http-nio-8080-exec-7]com.yjq.programmer.controller.common.CpachaController.generateCpacha:51 -验证码成功生成，method=user_register,value=uZD7
+2020-11-09 22:41:45.907 INFO [http-nio-8080-exec-10]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:42 -用户还未登录或者token失效，当前URL=/home/user/undefined
+2020-11-09 22:41:49.331 INFO [http-nio-8080-exec-1]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:42 -用户还未登录或者token失效，当前URL=/home/system/js/slider.js
+2020-11-09 22:41:55.109 INFO [http-nio-8080-exec-5]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:42 -用户还未登录或者token失效，当前URL=/home/system/js/slider.js
+2020-11-09 22:43:19.559 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 12488 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 22:43:19.566 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-09 22:43:19.737 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-11-09 22:43:19.738 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-11-09 22:43:23.620 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 22:43:23.644 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 22:43:23.664 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 22:43:23.665 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 22:43:23.928 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 22:43:23.929 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 4190 ms
+2020-11-09 22:43:25.259 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-09 22:43:27.035 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-09 22:43:27.073 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-09 22:43:27.101 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-09 22:43:27.106 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 8.703 seconds (JVM running for 12.322)
+2020-11-09 22:51:51.370 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 1468 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 22:51:51.374 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-09 22:51:51.420 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-11-09 22:51:51.421 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-11-09 22:51:53.094 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 22:51:53.109 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 22:51:53.123 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 22:51:53.124 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 22:51:53.268 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 22:51:53.268 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 1847 ms
+2020-11-09 22:51:54.082 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-09 22:51:55.543 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-09 22:51:55.577 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-09 22:51:55.621 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-09 22:51:55.625 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 4.893 seconds (JVM running for 5.987)
+2020-11-09 22:55:27.625 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 7532 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 22:55:27.631 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-09 22:55:27.700 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-11-09 22:55:27.701 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-11-09 22:55:30.506 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 22:55:30.530 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 22:55:30.548 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 22:55:30.549 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 22:55:30.869 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 22:55:30.870 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 3169 ms
+2020-11-09 22:55:32.046 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-09 22:55:33.550 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-09 22:55:33.587 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-09 22:55:33.612 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-09 22:55:33.615 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 6.648 seconds (JVM running for 8.067)
+2020-11-09 22:56:28.441 INFO [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-09 22:56:28.444 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-11-09 22:56:28.456 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 12 ms
+2020-11-09 22:56:28.773 INFO [http-nio-8080-exec-10]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:40 -当前路径获取到的token=
+2020-11-09 22:56:28.817 INFO [http-nio-8080-exec-4]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:40 -当前路径获取到的token=
+2020-11-09 22:56:28.833 INFO [http-nio-8080-exec-4]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:50 -当前URL=/home/system/js/slider.js
+2020-11-09 22:56:31.246 INFO [http-nio-8080-exec-4]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:40 -当前路径获取到的token=
+2020-11-09 22:56:39.496 INFO [http-nio-8080-exec-1]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-11-09 22:56:39.649 INFO [http-nio-8080-exec-1]com.zaxxer.hikari.pool.PoolBase.getAndSetNetworkTimeout:525 -HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2020-11-09 22:56:39.652 INFO [http-nio-8080-exec-1]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-11-09 22:56:39.743 INFO [http-nio-8080-exec-1]com.yjq.programmer.util.JWTUtil.getToken:46 -生成的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJleHAiOjE2MDU1Mzg1OTksInVzZXJuYW1lIjoi5p2o5p2o5ZCWIn0.d6iRzYWlr0rcqEpim06T9LbPaoX8abaUabun-3ypTnQ
+2020-11-09 22:56:40.860 INFO [http-nio-8080-exec-6]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:40 -当前路径获取到的token=
+2020-11-09 22:56:40.895 INFO [http-nio-8080-exec-2]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:40 -当前路径获取到的token=
+2020-11-09 22:56:40.895 INFO [http-nio-8080-exec-2]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:50 -当前URL=/home/system/js/slider.js
+2020-11-09 22:56:49.620 INFO [http-nio-8080-exec-7]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:40 -当前路径获取到的token=
+2020-11-09 22:57:19.545 INFO [http-nio-8080-exec-5]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:40 -当前路径获取到的token=
+2020-11-09 22:57:19.569 INFO [http-nio-8080-exec-1]com.yjq.programmer.controller.common.CpachaController.generateCpacha:51 -验证码成功生成，method=user_register,value=HRJS
+2020-11-09 22:57:31.357 INFO [http-nio-8080-exec-7]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:40 -当前路径获取到的token=
+2020-11-09 22:57:31.400 INFO [http-nio-8080-exec-2]com.yjq.programmer.controller.common.CpachaController.generateCpacha:51 -验证码成功生成，method=user_register,value=ZN2Z
+2020-11-09 22:58:26.676 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 22524 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-09 22:58:26.685 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-09 22:58:26.872 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-11-09 22:58:26.873 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-11-09 22:58:29.800 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-09 22:58:29.828 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-09 22:58:29.846 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-09 22:58:29.849 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-09 22:58:30.112 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-09 22:58:30.112 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 3239 ms
+2020-11-09 22:58:32.070 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-09 22:58:34.328 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-09 22:58:34.373 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-09 22:58:34.408 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-09 22:58:34.414 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 9.023 seconds (JVM running for 11.245)
+2020-11-09 22:58:44.454 INFO [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-09 22:58:44.454 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-11-09 22:58:44.469 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 14 ms
+2020-11-09 22:58:58.424 INFO [http-nio-8080-exec-10]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:40 -当前路径获取到的token=
+2020-11-09 22:58:58.531 INFO [http-nio-8080-exec-7]com.yjq.programmer.controller.common.CpachaController.generateCpacha:51 -验证码成功生成，method=user_register,value=Gx9G
+2020-11-09 22:59:13.628 INFO [http-nio-8080-exec-6]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:40 -当前路径获取到的token=
+2020-11-09 22:59:20.851 INFO [http-nio-8080-exec-6]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-11-09 22:59:21.042 INFO [http-nio-8080-exec-6]com.zaxxer.hikari.pool.PoolBase.getAndSetNetworkTimeout:525 -HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2020-11-09 22:59:21.048 INFO [http-nio-8080-exec-6]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-11-09 22:59:21.182 INFO [http-nio-8080-exec-6]com.yjq.programmer.util.JWTUtil.getToken:46 -生成的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJleHAiOjE2MDU1Mzg3NjEsInVzZXJuYW1lIjoi5p2o5p2o5ZCWIn0.WxJUhPzZCONoniA2W1jhjC6JBQQ5Dx8UYxp3WnInptM
+2020-11-09 22:59:49.653 INFO [http-nio-8080-exec-6]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:40 -当前路径获取到的token=
+2020-11-09 22:59:55.788 INFO [http-nio-8080-exec-1]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:40 -当前路径获取到的token=
+2020-11-09 22:59:55.858 INFO [http-nio-8080-exec-1]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:50 -当前URL=/home/system/js/slider.js
+2020-11-09 23:00:41.643 WARN [HikariPool-1 housekeeper]com.zaxxer.hikari.pool.HikariPool.run:766 -HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=45s855ms716µs600ns).
+2020-11-09 23:00:45.524 INFO [http-nio-8080-exec-10]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:40 -当前路径获取到的token=
+2020-11-09 23:02:54.431 WARN [HikariPool-1 housekeeper]com.zaxxer.hikari.pool.HikariPool.run:766 -HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m42s784ms364µs700ns).
+2020-11-09 23:02:54.431 INFO [http-nio-8080-exec-8]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:40 -当前路径获取到的token=
+2020-11-09 23:02:54.467 INFO [http-nio-8080-exec-7]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:40 -当前路径获取到的token=
+2020-11-09 23:02:54.467 INFO [http-nio-8080-exec-7]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:50 -当前URL=/home/system/js/slider.js
+2020-11-09 23:02:54.638 INFO [Thread-27]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-09 23:02:54.641 INFO [Thread-27]com.zaxxer.hikari.HikariDataSource.close:350 -HikariPool-1 - Shutdown initiated...
+2020-11-09 23:02:54.654 INFO [Thread-27]com.zaxxer.hikari.HikariDataSource.close:352 -HikariPool-1 - Shutdown completed.

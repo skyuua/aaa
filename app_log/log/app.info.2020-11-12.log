@@ -1,0 +1,610 @@
+2020-11-12 09:11:38.756 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 23972 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-12 09:11:38.759 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-12 09:11:38.846 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-11-12 09:11:38.848 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-11-12 09:11:41.455 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-12 09:11:41.477 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-12 09:11:41.494 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-12 09:11:41.495 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-12 09:11:41.720 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-12 09:11:41.721 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 2872 ms
+2020-11-12 09:11:43.153 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-12 09:11:50.167 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-12 09:11:50.230 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-12 09:11:50.283 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-12 09:11:50.291 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 12.317 seconds (JVM running for 14.144)
+2020-11-12 09:11:50.434 INFO [http-nio-8080-exec-7]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-12 09:11:50.434 INFO [http-nio-8080-exec-7]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-11-12 09:11:50.451 INFO [http-nio-8080-exec-7]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 16 ms
+2020-11-12 09:11:50.498 INFO [http-nio-8080-exec-7]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/home/address/index
+2020-11-12 09:11:50.500 INFO [http-nio-8080-exec-7]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 09:11:50.685 INFO [http-nio-8080-exec-7]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-11-12 09:11:51.229 INFO [http-nio-8080-exec-7]com.zaxxer.hikari.pool.PoolBase.getAndSetNetworkTimeout:525 -HikariPool-1 - Driver does not support get/set network timeout for connections. (com.mysql.jdbc.JDBC4Connection.getNetworkTimeout()I)
+2020-11-12 09:11:51.241 INFO [http-nio-8080-exec-7]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-11-12 09:11:51.996 INFO [http-nio-8080-exec-1]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/static/home/images/AD_page_img_02.png
+2020-11-12 09:11:51.997 INFO [http-nio-8080-exec-1]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 09:12:03.050 INFO [http-nio-8080-exec-10]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/home/address/add
+2020-11-12 09:12:03.051 INFO [http-nio-8080-exec-10]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 09:12:03.759 INFO [http-nio-8080-exec-9]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/home/address/index
+2020-11-12 09:12:03.760 INFO [http-nio-8080-exec-9]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 09:12:03.917 INFO [http-nio-8080-exec-8]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/static/home/images/AD_page_img_02.png
+2020-11-12 09:12:03.918 INFO [http-nio-8080-exec-8]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 09:12:05.657 INFO [http-nio-8080-exec-2]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/home/address/delete
+2020-11-12 09:12:05.658 INFO [http-nio-8080-exec-2]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 09:12:06.353 INFO [http-nio-8080-exec-3]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/home/address/index
+2020-11-12 09:12:06.354 INFO [http-nio-8080-exec-3]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 09:12:06.435 INFO [http-nio-8080-exec-4]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/static/home/images/AD_page_img_02.png
+2020-11-12 09:12:06.435 INFO [http-nio-8080-exec-4]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 09:12:14.855 INFO [http-nio-8080-exec-2]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/home/address/add
+2020-11-12 09:12:14.855 INFO [http-nio-8080-exec-2]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 09:12:18.574 INFO [http-nio-8080-exec-7]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/home/address/add
+2020-11-12 09:12:18.575 INFO [http-nio-8080-exec-7]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 09:12:19.146 INFO [http-nio-8080-exec-10]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/home/address/index
+2020-11-12 09:12:19.146 INFO [http-nio-8080-exec-10]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 09:12:19.231 INFO [http-nio-8080-exec-5]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/static/home/images/AD_page_img_02.png
+2020-11-12 09:12:19.231 INFO [http-nio-8080-exec-5]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 09:12:23.818 INFO [http-nio-8080-exec-3]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/home/address/add
+2020-11-12 09:12:23.818 INFO [http-nio-8080-exec-3]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 09:12:27.782 INFO [http-nio-8080-exec-5]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/home/address/add
+2020-11-12 09:12:27.782 INFO [http-nio-8080-exec-5]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 09:12:30.526 INFO [http-nio-8080-exec-8]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/home/address/delete
+2020-11-12 09:12:30.526 INFO [http-nio-8080-exec-8]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 09:12:31.255 INFO [http-nio-8080-exec-4]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/home/address/index
+2020-11-12 09:12:31.255 INFO [http-nio-8080-exec-4]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 09:12:31.355 INFO [http-nio-8080-exec-7]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/static/home/images/AD_page_img_02.png
+2020-11-12 09:12:31.357 INFO [http-nio-8080-exec-7]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 09:12:33.799 INFO [http-nio-8080-exec-4]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/home/address/set_first_selected
+2020-11-12 09:12:33.800 INFO [http-nio-8080-exec-4]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 09:12:34.835 INFO [http-nio-8080-exec-3]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/home/address/index
+2020-11-12 09:12:34.836 INFO [http-nio-8080-exec-3]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 09:12:34.937 INFO [http-nio-8080-exec-7]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/static/home/images/AD_page_img_02.png
+2020-11-12 09:12:34.938 INFO [http-nio-8080-exec-7]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 09:12:55.360 INFO [http-nio-8080-exec-7]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/home/address/add
+2020-11-12 09:12:55.360 INFO [http-nio-8080-exec-7]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 09:12:56.225 INFO [http-nio-8080-exec-10]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/home/address/index
+2020-11-12 09:12:56.227 INFO [http-nio-8080-exec-10]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 09:12:56.328 INFO [http-nio-8080-exec-3]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/static/home/images/AD_page_img_02.png
+2020-11-12 09:12:56.328 INFO [http-nio-8080-exec-3]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 09:12:58.432 INFO [http-nio-8080-exec-5]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/home/address/set_first_selected
+2020-11-12 09:12:58.432 INFO [http-nio-8080-exec-5]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 09:12:59.350 INFO [http-nio-8080-exec-9]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/home/address/index
+2020-11-12 09:12:59.351 INFO [http-nio-8080-exec-9]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 09:12:59.438 INFO [http-nio-8080-exec-2]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/static/home/images/AD_page_img_02.png
+2020-11-12 09:12:59.438 INFO [http-nio-8080-exec-2]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 09:13:00.309 INFO [http-nio-8080-exec-1]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/home/address/delete
+2020-11-12 09:13:00.311 INFO [http-nio-8080-exec-1]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 09:13:01.561 INFO [http-nio-8080-exec-6]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/home/address/index
+2020-11-12 09:13:01.562 INFO [http-nio-8080-exec-6]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 09:13:01.653 INFO [http-nio-8080-exec-8]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/static/home/images/AD_page_img_02.png
+2020-11-12 09:13:01.654 INFO [http-nio-8080-exec-8]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 09:13:09.169 INFO [http-nio-8080-exec-2]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/home/address/set_first_selected
+2020-11-12 09:13:09.170 INFO [http-nio-8080-exec-2]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 09:13:10.179 INFO [http-nio-8080-exec-10]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/home/address/index
+2020-11-12 09:13:10.180 INFO [http-nio-8080-exec-10]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 09:13:10.264 INFO [http-nio-8080-exec-5]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/static/home/images/AD_page_img_02.png
+2020-11-12 09:13:10.265 INFO [http-nio-8080-exec-5]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 09:13:32.578 INFO [http-nio-8080-exec-5]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/home/system/index
+2020-11-12 09:13:32.579 INFO [http-nio-8080-exec-5]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 09:15:23.224 INFO [http-nio-8080-exec-8]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:34 -当前URL=/home/admin/index
+2020-11-12 09:15:23.226 INFO [http-nio-8080-exec-8]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:50 -没有登录或session失效，跳转登录界面！当前URL={}/home/admin/index
+2020-11-12 09:15:23.483 INFO [http-nio-8080-exec-7]com.yjq.programmer.controller.common.CpachaController.generateCpacha:51 -验证码成功生成，method=admin_login,value=bk5W
+2020-11-12 09:16:05.620 INFO [http-nio-8080-exec-8]com.yjq.programmer.controller.common.CpachaController.generateCpacha:51 -验证码成功生成，method=admin_login,value=TT5K
+2020-11-12 09:16:37.857 INFO [http-nio-8080-exec-9]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/home/user/login
+2020-11-12 09:16:37.859 INFO [http-nio-8080-exec-9]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 09:16:41.642 INFO [http-nio-8080-exec-1]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/home/system/index
+2020-11-12 09:16:41.642 INFO [http-nio-8080-exec-1]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 09:56:00.776 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 23812 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-12 09:56:00.781 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-12 09:56:00.897 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-11-12 09:56:00.897 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-11-12 09:56:03.571 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-12 09:56:03.592 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-12 09:56:03.606 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-12 09:56:03.606 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-12 09:56:03.863 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-12 09:56:03.864 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 2966 ms
+2020-11-12 09:56:05.901 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-12 09:56:12.739 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-12 09:56:12.787 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-12 09:56:12.831 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-12 09:56:12.838 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 13.184 seconds (JVM running for 15.595)
+2020-11-12 09:56:15.831 INFO [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-12 09:56:15.832 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-11-12 09:56:15.849 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 17 ms
+2020-11-12 09:56:15.899 INFO [http-nio-8080-exec-1]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:34 -当前URL=/admin/index/index
+2020-11-12 09:56:15.900 INFO [http-nio-8080-exec-1]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:50 -没有登录或session失效，跳转登录界面！当前URL={}/admin/index/index
+2020-11-12 09:56:16.280 INFO [http-nio-8080-exec-3]com.yjq.programmer.controller.common.CpachaController.generateCpacha:51 -验证码成功生成，method=admin_login,value=VAxT
+2020-11-12 09:56:29.697 INFO [http-nio-8080-exec-2]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-11-12 09:56:30.033 INFO [http-nio-8080-exec-2]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-11-12 09:59:12.604 INFO [Thread-30]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-12 09:59:12.607 INFO [Thread-30]com.zaxxer.hikari.HikariDataSource.close:350 -HikariPool-1 - Shutdown initiated...
+2020-11-12 09:59:12.632 INFO [Thread-30]com.zaxxer.hikari.HikariDataSource.close:352 -HikariPool-1 - Shutdown completed.
+2020-11-12 09:59:13.608 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 23812 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-12 09:59:13.609 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-12 09:59:14.699 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-12 09:59:14.700 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-12 09:59:14.701 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-12 09:59:14.702 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-12 09:59:14.766 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-12 09:59:14.766 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 1149 ms
+2020-11-12 09:59:15.350 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-12 09:59:21.100 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-12 09:59:21.148 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-12 09:59:21.157 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-12 09:59:21.159 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 7.649 seconds (JVM running for 203.915)
+2020-11-12 09:59:21.164 INFO [restartedMain]o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent:63 -Condition evaluation unchanged
+2020-11-12 09:59:21.249 INFO [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-12 09:59:21.252 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-11-12 09:59:21.259 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 7 ms
+2020-11-12 09:59:21.261 INFO [http-nio-8080-exec-1]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:34 -当前URL=/admin/index/index
+2020-11-12 09:59:21.266 INFO [http-nio-8080-exec-1]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:50 -没有登录或session失效，跳转登录界面！当前URL={}/admin/index/index
+2020-11-12 09:59:21.428 INFO [http-nio-8080-exec-7]com.yjq.programmer.controller.common.CpachaController.generateCpacha:51 -验证码成功生成，method=admin_login,value=Wdk6
+2020-11-12 09:59:35.163 INFO [http-nio-8080-exec-4]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-2 - Starting...
+2020-11-12 09:59:35.171 INFO [http-nio-8080-exec-4]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-2 - Start completed.
+2020-11-12 09:59:35.246 INFO [http-nio-8080-exec-8]freemarker.beans.info:64 -Detected multiple classes with the same name, "com.yjq.programmer.pojo.admin.Admin". Assuming it was a class-reloading. Clearing class introspection caches to release old data.
+2020-11-12 10:26:54.993 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 19020 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-12 10:26:54.997 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-12 10:26:55.067 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-11-12 10:26:55.068 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-11-12 10:26:57.999 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-12 10:26:58.029 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-12 10:26:58.048 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-12 10:26:58.049 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-12 10:26:58.257 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-12 10:26:58.257 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 3189 ms
+2020-11-12 10:26:59.283 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-12 10:27:06.066 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-12 10:27:06.127 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-12 10:27:06.167 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-12 10:27:06.172 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 11.822 seconds (JVM running for 13.407)
+2020-11-12 10:29:47.660 INFO [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-12 10:29:47.660 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-11-12 10:29:47.690 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 30 ms
+2020-11-12 10:29:47.736 INFO [http-nio-8080-exec-1]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:34 -当前URL=/admin/index/index
+2020-11-12 10:29:47.738 INFO [http-nio-8080-exec-1]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:50 -没有登录或session失效，跳转登录界面！当前URL={}/admin/index/index
+2020-11-12 10:29:48.409 INFO [http-nio-8080-exec-4]com.yjq.programmer.controller.common.CpachaController.generateCpacha:51 -验证码成功生成，method=admin_login,value=vThe
+2020-11-12 10:29:58.779 INFO [http-nio-8080-exec-1]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-11-12 10:29:59.194 INFO [http-nio-8080-exec-1]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-11-12 11:53:41.200 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 10912 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-12 11:53:41.204 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-12 11:53:41.271 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-11-12 11:53:41.272 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-11-12 11:53:43.366 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-12 11:53:43.383 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-12 11:53:43.393 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-12 11:53:43.394 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-12 11:53:43.528 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-12 11:53:43.528 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 2256 ms
+2020-11-12 11:53:44.412 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-12 11:53:50.837 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-12 11:53:50.874 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-12 11:53:50.904 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-12 11:53:50.909 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 10.457 seconds (JVM running for 11.96)
+2020-11-12 11:54:30.543 INFO [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-12 11:54:30.543 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-11-12 11:54:30.558 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 15 ms
+2020-11-12 11:54:30.593 INFO [http-nio-8080-exec-1]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:34 -当前URL=/admin/index/index
+2020-11-12 11:54:30.594 INFO [http-nio-8080-exec-1]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:50 -没有登录或session失效，跳转登录界面！当前URL={}/admin/index/index
+2020-11-12 11:54:30.877 INFO [http-nio-8080-exec-6]com.yjq.programmer.controller.common.CpachaController.generateCpacha:51 -验证码成功生成，method=admin_login,value=MXtU
+2020-11-12 11:54:44.916 INFO [http-nio-8080-exec-9]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-11-12 11:54:45.205 INFO [http-nio-8080-exec-9]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-11-12 12:07:41.777 INFO [Thread-26]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-12 12:07:41.779 INFO [Thread-26]com.zaxxer.hikari.HikariDataSource.close:350 -HikariPool-1 - Shutdown initiated...
+2020-11-12 12:07:41.794 INFO [Thread-26]com.zaxxer.hikari.HikariDataSource.close:352 -HikariPool-1 - Shutdown completed.
+2020-11-12 12:07:43.517 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 10912 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-12 12:07:43.518 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-12 12:07:44.800 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-12 12:07:44.802 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-12 12:07:44.803 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-12 12:07:44.804 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-12 12:07:44.883 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-12 12:07:44.884 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 1360 ms
+2020-11-12 12:07:45.736 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-12 12:07:51.274 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-12 12:07:51.300 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-12 12:07:51.306 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-12 12:07:51.307 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 7.879 seconds (JVM running for 852.359)
+2020-11-12 12:07:51.312 INFO [restartedMain]o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent:63 -Condition evaluation unchanged
+2020-11-12 12:08:17.009 INFO [Thread-36]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-12 12:08:17.671 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 10912 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-12 12:08:17.671 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-12 12:08:18.439 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-12 12:08:18.441 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-12 12:08:18.442 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-12 12:08:18.442 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-12 12:08:18.476 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-12 12:08:18.476 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 801 ms
+2020-11-12 12:08:19.350 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-12 12:08:24.935 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-12 12:08:24.949 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-12 12:08:24.952 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-12 12:08:24.953 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 7.338 seconds (JVM running for 886.005)
+2020-11-12 12:08:24.955 INFO [restartedMain]o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent:63 -Condition evaluation unchanged
+2020-11-12 12:08:25.058 INFO [http-nio-8080-exec-2]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-12 12:08:25.059 INFO [http-nio-8080-exec-2]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-11-12 12:08:25.062 INFO [http-nio-8080-exec-2]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 3 ms
+2020-11-12 12:08:25.063 INFO [http-nio-8080-exec-2]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:34 -当前URL=/admin/index/index
+2020-11-12 12:08:25.065 INFO [http-nio-8080-exec-2]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:50 -没有登录或session失效，跳转登录界面！当前URL={}/admin/index/index
+2020-11-12 12:08:25.153 INFO [http-nio-8080-exec-4]com.yjq.programmer.controller.common.CpachaController.generateCpacha:51 -验证码成功生成，method=admin_login,value=yaRH
+2020-11-12 12:08:38.183 INFO [http-nio-8080-exec-1]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-2 - Starting...
+2020-11-12 12:08:38.190 INFO [http-nio-8080-exec-1]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-2 - Start completed.
+2020-11-12 12:08:38.265 INFO [http-nio-8080-exec-8]freemarker.beans.info:64 -Detected multiple classes with the same name, "com.yjq.programmer.pojo.admin.Admin". Assuming it was a class-reloading. Clearing class introspection caches to release old data.
+2020-11-12 12:18:01.964 INFO [Thread-42]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-12 12:18:01.965 INFO [Thread-42]com.zaxxer.hikari.HikariDataSource.close:350 -HikariPool-2 - Shutdown initiated...
+2020-11-12 12:18:01.998 INFO [Thread-42]com.zaxxer.hikari.HikariDataSource.close:352 -HikariPool-2 - Shutdown completed.
+2020-11-12 12:18:04.227 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 10912 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-12 12:18:04.228 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-12 12:18:07.214 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-12 12:18:07.217 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-12 12:18:07.218 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-12 12:18:07.218 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-12 12:18:07.303 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-12 12:18:07.303 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 3067 ms
+2020-11-12 12:18:08.541 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-12 12:18:15.355 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-12 12:18:15.909 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-12 12:18:15.916 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-12 12:18:15.917 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 12.105 seconds (JVM running for 1476.969)
+2020-11-12 12:18:15.921 INFO [restartedMain]o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent:63 -Condition evaluation unchanged
+2020-11-12 12:20:14.249 INFO [Thread-48]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-12 12:20:15.641 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 10912 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-12 12:20:15.641 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-12 12:20:17.876 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-12 12:20:17.884 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-12 12:20:17.890 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-12 12:20:17.892 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-12 12:20:17.978 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-12 12:20:17.979 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 2322 ms
+2020-11-12 12:20:19.178 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-12 12:20:26.008 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-12 12:20:26.045 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-12 12:20:26.050 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-12 12:20:26.051 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 10.541 seconds (JVM running for 1607.103)
+2020-11-12 12:20:26.056 INFO [restartedMain]o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent:63 -Condition evaluation unchanged
+2020-11-12 12:37:42.791 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 15120 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-12 12:37:42.797 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-12 12:37:42.903 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-11-12 12:37:42.904 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-11-12 12:37:46.439 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-12 12:37:46.469 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-12 12:37:46.493 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-12 12:37:46.512 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-12 12:37:46.927 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-12 12:37:46.927 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 4022 ms
+2020-11-12 12:37:48.153 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-12 12:37:54.300 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-12 12:37:54.332 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-12 12:37:54.360 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-12 12:37:54.364 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 12.641 seconds (JVM running for 15.453)
+2020-11-12 12:38:20.639 INFO [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-12 12:38:20.640 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-11-12 12:38:20.653 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 13 ms
+2020-11-12 12:38:20.730 INFO [http-nio-8080-exec-1]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:34 -当前URL=/admin/index/index
+2020-11-12 12:38:20.732 INFO [http-nio-8080-exec-1]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:50 -没有登录或session失效，跳转登录界面！当前URL={}/admin/index/index
+2020-11-12 12:38:21.466 INFO [http-nio-8080-exec-8]com.yjq.programmer.controller.common.CpachaController.generateCpacha:51 -验证码成功生成，method=admin_login,value=rFLD
+2020-11-12 12:38:42.903 INFO [http-nio-8080-exec-9]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-11-12 12:38:43.195 INFO [http-nio-8080-exec-9]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-11-12 12:42:24.362 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 2116 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-12 12:42:24.375 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-12 12:42:24.506 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-11-12 12:42:24.506 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-11-12 12:42:27.318 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-12 12:42:27.336 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-12 12:42:27.348 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-12 12:42:27.348 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-12 12:42:27.533 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-12 12:42:27.533 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 3026 ms
+2020-11-12 12:42:28.594 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-12 12:42:34.667 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-12 12:42:34.695 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-12 12:42:34.717 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-12 12:42:34.721 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 11.447 seconds (JVM running for 13.72)
+2020-11-12 12:43:14.779 INFO [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-12 12:43:14.779 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-11-12 12:43:14.792 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 13 ms
+2020-11-12 12:43:14.827 INFO [http-nio-8080-exec-1]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/home/system/index
+2020-11-12 12:43:14.829 INFO [http-nio-8080-exec-1]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 12:43:18.210 INFO [http-nio-8080-exec-7]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:34 -当前URL=/admin/index/index
+2020-11-12 12:43:18.213 INFO [http-nio-8080-exec-7]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:50 -没有登录或session失效，跳转登录界面！当前URL={}/admin/index/index
+2020-11-12 12:43:18.363 INFO [http-nio-8080-exec-1]com.yjq.programmer.controller.common.CpachaController.generateCpacha:51 -验证码成功生成，method=admin_login,value=X6XL
+2020-11-12 12:43:30.315 INFO [http-nio-8080-exec-5]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-11-12 12:43:30.587 INFO [http-nio-8080-exec-5]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-11-12 15:47:35.555 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 2412 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-12 15:47:35.559 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-12 15:47:35.664 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-11-12 15:47:35.664 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-11-12 15:47:37.875 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-12 15:47:37.907 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-12 15:47:37.924 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-12 15:47:37.924 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-12 15:47:38.167 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-12 15:47:38.168 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 2503 ms
+2020-11-12 15:47:39.281 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-12 15:47:41.150 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-12 15:47:41.194 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-12 15:47:41.227 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-12 15:47:41.232 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 6.553 seconds (JVM running for 8.226)
+2020-11-12 15:47:51.774 INFO [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-12 15:47:51.774 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-11-12 15:47:51.793 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 18 ms
+2020-11-12 15:47:51.834 INFO [http-nio-8080-exec-1]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:34 -当前URL=/admin/index/index
+2020-11-12 15:47:51.835 INFO [http-nio-8080-exec-1]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:50 -没有登录或session失效，跳转登录界面！当前URL={}/admin/index/index
+2020-11-12 15:47:52.215 INFO [http-nio-8080-exec-5]com.yjq.programmer.controller.common.CpachaController.generateCpacha:51 -验证码成功生成，method=admin_login,value=aXzR
+2020-11-12 15:48:01.045 INFO [http-nio-8080-exec-6]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-11-12 15:48:01.424 INFO [http-nio-8080-exec-6]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-11-12 15:52:06.405 INFO [Thread-18]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-12 15:52:06.407 INFO [Thread-18]com.zaxxer.hikari.HikariDataSource.close:350 -HikariPool-1 - Shutdown initiated...
+2020-11-12 15:52:06.414 INFO [Thread-18]com.zaxxer.hikari.HikariDataSource.close:352 -HikariPool-1 - Shutdown completed.
+2020-11-12 15:52:07.106 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 2412 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-12 15:52:07.106 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-12 15:52:08.317 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-12 15:52:08.318 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-12 15:52:08.319 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-12 15:52:08.320 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-12 15:52:08.371 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-12 15:52:08.371 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 1262 ms
+2020-11-12 15:52:08.886 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-12 15:52:10.067 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-12 15:52:10.089 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-12 15:52:10.107 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-12 15:52:10.109 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 3.064 seconds (JVM running for 277.103)
+2020-11-12 15:52:10.112 INFO [restartedMain]o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent:63 -Condition evaluation unchanged
+2020-11-12 15:52:41.563 INFO [Thread-27]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-12 15:52:42.184 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 2412 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-12 15:52:42.184 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-12 15:52:43.054 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-12 15:52:43.056 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-12 15:52:43.057 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-12 15:52:43.057 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-12 15:52:43.088 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-12 15:52:43.089 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 902 ms
+2020-11-12 15:52:43.532 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-12 15:52:44.621 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-12 15:52:44.646 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-12 15:52:44.650 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-12 15:52:44.652 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 2.514 seconds (JVM running for 311.645)
+2020-11-12 15:52:44.654 INFO [restartedMain]o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent:63 -Condition evaluation unchanged
+2020-11-12 15:55:58.899 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 21728 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-12 15:55:58.903 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-12 15:55:58.991 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-11-12 15:55:58.992 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-11-12 15:56:01.103 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-12 15:56:01.121 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-12 15:56:01.131 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-12 15:56:01.132 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-12 15:56:01.313 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-12 15:56:01.314 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 2322 ms
+2020-11-12 15:56:02.620 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-12 15:56:05.027 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-12 15:56:05.086 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-12 15:56:05.150 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-12 15:56:05.162 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 7.02 seconds (JVM running for 8.352)
+2020-11-12 15:59:26.566 INFO [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-12 15:59:26.568 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-11-12 15:59:26.586 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 17 ms
+2020-11-12 15:59:26.632 INFO [http-nio-8080-exec-1]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:34 -当前URL=/admin/index/index
+2020-11-12 15:59:26.640 INFO [http-nio-8080-exec-1]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:50 -没有登录或session失效，跳转登录界面！当前URL={}/admin/index/index
+2020-11-12 15:59:27.071 INFO [http-nio-8080-exec-5]com.yjq.programmer.controller.common.CpachaController.generateCpacha:51 -验证码成功生成，method=admin_login,value=jnp8
+2020-11-12 15:59:38.424 INFO [http-nio-8080-exec-1]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-11-12 15:59:38.690 INFO [http-nio-8080-exec-1]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-11-12 16:56:30.989 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 15504 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-12 16:56:30.997 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-12 16:56:31.085 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-11-12 16:56:31.086 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-11-12 16:56:33.304 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-12 16:56:33.327 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-12 16:56:33.354 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-12 16:56:33.355 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-12 16:56:33.598 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-12 16:56:33.599 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 2513 ms
+2020-11-12 16:56:34.765 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-12 16:56:37.601 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-12 16:56:37.634 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-12 16:56:37.683 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-12 16:56:37.690 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 7.452 seconds (JVM running for 8.913)
+2020-11-12 17:13:24.919 INFO [http-nio-8080-exec-2]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-12 17:13:24.921 INFO [http-nio-8080-exec-2]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-11-12 17:13:24.960 INFO [http-nio-8080-exec-2]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 35 ms
+2020-11-12 17:13:25.005 INFO [http-nio-8080-exec-2]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:34 -当前URL=/admin/index/index
+2020-11-12 17:13:25.009 INFO [http-nio-8080-exec-2]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:50 -没有登录或session失效，跳转登录界面！当前URL={}/admin/index/index
+2020-11-12 17:13:25.382 INFO [http-nio-8080-exec-8]com.yjq.programmer.controller.common.CpachaController.generateCpacha:51 -验证码成功生成，method=admin_login,value=nhUb
+2020-11-12 17:13:37.941 INFO [http-nio-8080-exec-3]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-11-12 17:13:38.283 INFO [http-nio-8080-exec-3]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-11-12 17:16:20.541 INFO [Thread-21]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-12 17:16:20.543 INFO [Thread-21]com.zaxxer.hikari.HikariDataSource.close:350 -HikariPool-1 - Shutdown initiated...
+2020-11-12 17:16:20.553 INFO [Thread-21]com.zaxxer.hikari.HikariDataSource.close:352 -HikariPool-1 - Shutdown completed.
+2020-11-12 17:16:21.034 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 15504 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-12 17:16:21.035 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-12 17:16:21.773 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-12 17:16:21.776 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-12 17:16:21.777 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-12 17:16:21.778 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-12 17:16:21.876 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-12 17:16:21.877 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 839 ms
+2020-11-12 17:16:22.652 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-12 17:16:23.758 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-12 17:16:23.813 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-12 17:16:23.820 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-12 17:16:23.822 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 2.837 seconds (JVM running for 1195.044)
+2020-11-12 17:16:23.830 INFO [restartedMain]o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent:63 -Condition evaluation unchanged
+2020-11-12 17:17:22.070 INFO [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-12 17:17:22.072 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-11-12 17:17:22.079 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 7 ms
+2020-11-12 17:17:22.080 INFO [http-nio-8080-exec-1]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:34 -当前URL=/admin/index/index
+2020-11-12 17:17:22.085 INFO [http-nio-8080-exec-1]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:50 -没有登录或session失效，跳转登录界面！当前URL={}/admin/index/index
+2020-11-12 17:17:22.243 INFO [http-nio-8080-exec-3]com.yjq.programmer.controller.common.CpachaController.generateCpacha:51 -验证码成功生成，method=admin_login,value=ADew
+2020-11-12 17:17:35.020 INFO [http-nio-8080-exec-5]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-2 - Starting...
+2020-11-12 17:17:35.029 INFO [http-nio-8080-exec-5]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-2 - Start completed.
+2020-11-12 17:17:35.081 INFO [http-nio-8080-exec-7]com.yjq.programmer.controller.common.CpachaController.generateCpacha:51 -验证码成功生成，method=admin_login,value=XFrs
+2020-11-12 17:17:42.702 INFO [http-nio-8080-exec-6]com.yjq.programmer.controller.common.CpachaController.generateCpacha:51 -验证码成功生成，method=admin_login,value=Pc2W
+2020-11-12 17:17:46.126 INFO [http-nio-8080-exec-9]com.yjq.programmer.controller.common.CpachaController.generateCpacha:51 -验证码成功生成，method=admin_login,value=mPze
+2020-11-12 17:17:50.095 INFO [http-nio-8080-exec-8]com.yjq.programmer.controller.common.CpachaController.generateCpacha:51 -验证码成功生成，method=admin_login,value=xxpu
+2020-11-12 17:17:56.570 INFO [http-nio-8080-exec-5]freemarker.beans.info:64 -Detected multiple classes with the same name, "com.yjq.programmer.pojo.admin.Admin". Assuming it was a class-reloading. Clearing class introspection caches to release old data.
+2020-11-12 17:37:11.154 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 9096 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-12 17:37:11.159 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-12 17:37:11.232 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-11-12 17:37:11.232 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-11-12 17:37:13.344 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-12 17:37:13.366 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-12 17:37:13.379 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-12 17:37:13.379 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-12 17:37:13.540 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-12 17:37:13.542 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 2309 ms
+2020-11-12 17:37:14.478 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-12 17:37:16.945 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-12 17:37:16.981 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-12 17:37:17.006 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-12 17:37:17.010 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 6.641 seconds (JVM running for 8.132)
+2020-11-12 17:37:46.004 INFO [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-12 17:37:46.005 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-11-12 17:37:46.028 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 22 ms
+2020-11-12 17:37:46.067 INFO [http-nio-8080-exec-1]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:34 -当前URL=/admin/index/index
+2020-11-12 17:37:46.069 INFO [http-nio-8080-exec-1]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:50 -没有登录或session失效，跳转登录界面！当前URL={}/admin/index/index
+2020-11-12 17:37:46.492 INFO [http-nio-8080-exec-3]com.yjq.programmer.controller.common.CpachaController.generateCpacha:51 -验证码成功生成，method=admin_login,value=UKH9
+2020-11-12 17:38:03.803 INFO [http-nio-8080-exec-5]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-11-12 17:38:04.106 INFO [http-nio-8080-exec-5]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-11-12 18:19:20.623 INFO [http-nio-8080-exec-5]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:34 -当前URL=/admin/index/index
+2020-11-12 18:19:20.630 INFO [http-nio-8080-exec-5]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:50 -没有登录或session失效，跳转登录界面！当前URL={}/admin/index/index
+2020-11-12 18:19:20.776 INFO [http-nio-8080-exec-8]com.yjq.programmer.controller.common.CpachaController.generateCpacha:51 -验证码成功生成，method=admin_login,value=bLPp
+2020-11-12 18:19:51.816 INFO [http-nio-8080-exec-5]com.yjq.programmer.controller.common.UploadController.uploadPhoto:104 -图片上传成功，保存位置：D:/IDEA_project/FruitAndVegetableShop/src/main/resources/upload/photo/20201112/1605176391811.jpg
+2020-11-12 18:20:04.090 INFO [Thread-19]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-12 18:20:04.095 INFO [Thread-19]com.zaxxer.hikari.HikariDataSource.close:350 -HikariPool-1 - Shutdown initiated...
+2020-11-12 18:20:04.106 INFO [Thread-19]com.zaxxer.hikari.HikariDataSource.close:352 -HikariPool-1 - Shutdown completed.
+2020-11-12 18:20:04.935 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 9096 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-12 18:20:04.935 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-12 18:20:05.871 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-12 18:20:05.873 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-12 18:20:05.874 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-12 18:20:05.874 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-12 18:20:05.925 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-12 18:20:05.925 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 984 ms
+2020-11-12 18:20:06.517 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-12 18:20:07.698 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-12 18:20:07.748 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-12 18:20:07.782 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-12 18:20:07.783 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 2.92 seconds (JVM running for 2578.906)
+2020-11-12 18:20:07.790 INFO [restartedMain]o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent:63 -Condition evaluation unchanged
+2020-11-12 20:12:19.178 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 23508 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-12 20:12:19.181 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-12 20:12:19.258 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-11-12 20:12:19.258 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-11-12 20:12:21.956 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-12 20:12:21.973 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-12 20:12:21.986 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-12 20:12:21.986 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-12 20:12:22.128 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-12 20:12:22.129 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 2870 ms
+2020-11-12 20:12:23.053 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-12 20:12:29.174 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-12 20:12:29.205 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-12 20:12:29.233 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-12 20:12:29.238 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 10.873 seconds (JVM running for 12.368)
+2020-11-12 20:12:30.933 INFO [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-12 20:12:30.934 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-11-12 20:12:30.947 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 13 ms
+2020-11-12 20:12:31.045 INFO [http-nio-8080-exec-1]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:44 -当前URL=/home/system/index
+2020-11-12 20:12:31.083 INFO [http-nio-8080-exec-1]com.yjq.programmer.interceptor.home.UserLoginInterceptor.preHandle:45 -当前路径获取到的token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwaG9uZSI6IjEzNzc0NTU5NDg1IiwiaWQiOiIxIiwiZXhwIjoxNjA1Njc2OTk2LCJoZWFkUGljIjoiMjAyMDExMTAvMTYwNTAxNDI4MDA0NC5qcGciLCJlbWFpbCI6IjgyMzIwODc4MkBxcS5jb20iLCJ1c2VybmFtZSI6IuadqOadqOWQliJ9.u_3GnysZzvdZV16A8rYbqeJidqkKikXZ9UFRzgZBnic
+2020-11-12 20:12:40.870 INFO [http-nio-8080-exec-10]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:34 -当前URL=/admin/index/index
+2020-11-12 20:12:40.871 INFO [http-nio-8080-exec-10]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:50 -没有登录或session失效，跳转登录界面！当前URL={}/admin/index/index
+2020-11-12 20:12:40.999 INFO [http-nio-8080-exec-7]com.yjq.programmer.controller.common.CpachaController.generateCpacha:51 -验证码成功生成，method=admin_login,value=aKBi
+2020-11-12 20:12:51.272 INFO [http-nio-8080-exec-8]com.yjq.programmer.controller.common.CpachaController.generateCpacha:51 -验证码成功生成，method=admin_login,value=gta2
+2020-11-12 20:12:55.639 INFO [http-nio-8080-exec-6]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-11-12 20:12:55.877 INFO [http-nio-8080-exec-6]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-11-12 20:15:06.350 INFO [Thread-26]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-12 20:15:06.352 INFO [Thread-26]com.zaxxer.hikari.HikariDataSource.close:350 -HikariPool-1 - Shutdown initiated...
+2020-11-12 20:15:06.363 INFO [Thread-26]com.zaxxer.hikari.HikariDataSource.close:352 -HikariPool-1 - Shutdown completed.
+2020-11-12 20:15:07.079 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 23508 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-12 20:15:07.079 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-12 20:15:08.489 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-12 20:15:08.492 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-12 20:15:08.493 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-12 20:15:08.494 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-12 20:15:08.556 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-12 20:15:08.557 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 1474 ms
+2020-11-12 20:15:09.403 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-12 20:15:14.839 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-12 20:15:14.873 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-12 20:15:14.878 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-12 20:15:14.879 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 7.888 seconds (JVM running for 178.01)
+2020-11-12 20:15:14.883 INFO [restartedMain]o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent:63 -Condition evaluation unchanged
+2020-11-12 20:15:51.413 INFO [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-12 20:15:51.415 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-11-12 20:15:51.424 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 9 ms
+2020-11-12 20:15:51.426 INFO [http-nio-8080-exec-1]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:34 -当前URL=/admin/index/index
+2020-11-12 20:15:51.429 INFO [http-nio-8080-exec-1]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:50 -没有登录或session失效，跳转登录界面！当前URL={}/admin/index/index
+2020-11-12 20:15:51.551 INFO [http-nio-8080-exec-10]com.yjq.programmer.controller.common.CpachaController.generateCpacha:51 -验证码成功生成，method=admin_login,value=vqph
+2020-11-12 20:16:00.679 INFO [http-nio-8080-exec-5]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-2 - Starting...
+2020-11-12 20:16:00.683 INFO [http-nio-8080-exec-5]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-2 - Start completed.
+2020-11-12 20:16:00.772 INFO [http-nio-8080-exec-2]freemarker.beans.info:64 -Detected multiple classes with the same name, "com.yjq.programmer.pojo.admin.Admin". Assuming it was a class-reloading. Clearing class introspection caches to release old data.
+2020-11-12 20:23:04.645 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 22996 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-12 20:23:04.690 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-12 20:23:04.921 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-11-12 20:23:04.928 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-11-12 20:23:12.524 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-12 20:23:12.572 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-12 20:23:12.608 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-12 20:23:12.609 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-12 20:23:13.158 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-12 20:23:13.159 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 8228 ms
+2020-11-12 20:23:15.689 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-12 20:23:23.018 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-12 20:23:23.056 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-12 20:23:23.081 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-12 20:23:23.086 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 20.144 seconds (JVM running for 23.586)
+2020-11-12 20:23:52.463 INFO [http-nio-8080-exec-2]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-12 20:23:52.464 INFO [http-nio-8080-exec-2]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-11-12 20:23:52.477 INFO [http-nio-8080-exec-2]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 13 ms
+2020-11-12 20:23:52.528 INFO [http-nio-8080-exec-2]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:34 -当前URL=/admin/index/index
+2020-11-12 20:23:52.530 INFO [http-nio-8080-exec-2]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:50 -没有登录或session失效，跳转登录界面！当前URL={}/admin/index/index
+2020-11-12 20:23:52.902 INFO [http-nio-8080-exec-6]com.yjq.programmer.controller.common.CpachaController.generateCpacha:51 -验证码成功生成，method=admin_login,value=2xcZ
+2020-11-12 20:25:32.312 INFO [http-nio-8080-exec-9]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-11-12 20:25:32.986 INFO [http-nio-8080-exec-9]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-11-12 20:37:12.497 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 13368 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-12 20:37:12.502 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-12 20:37:12.639 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-11-12 20:37:12.640 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:225 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-11-12 20:37:17.287 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-12 20:37:17.320 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-12 20:37:17.346 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-12 20:37:17.347 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-12 20:37:17.739 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-12 20:37:17.740 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 5100 ms
+2020-11-12 20:37:19.616 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-12 20:37:25.923 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-12 20:37:25.955 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-12 20:37:25.979 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-12 20:37:25.983 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 14.795 seconds (JVM running for 21.614)
+2020-11-12 20:39:34.417 INFO [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-12 20:39:34.417 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-11-12 20:39:34.436 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 19 ms
+2020-11-12 20:39:34.473 INFO [http-nio-8080-exec-1]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:34 -当前URL=/admin/index/index
+2020-11-12 20:39:34.485 INFO [http-nio-8080-exec-1]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:50 -没有登录或session失效，跳转登录界面！当前URL={}/admin/index/index
+2020-11-12 20:39:34.923 INFO [http-nio-8080-exec-4]com.yjq.programmer.controller.common.CpachaController.generateCpacha:51 -验证码成功生成，method=admin_login,value=i2DL
+2020-11-12 20:39:45.967 INFO [http-nio-8080-exec-5]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-1 - Starting...
+2020-11-12 20:39:46.165 INFO [http-nio-8080-exec-5]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-1 - Start completed.
+2020-11-12 20:40:50.397 INFO [Thread-34]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-12 20:40:50.399 INFO [Thread-34]com.zaxxer.hikari.HikariDataSource.close:350 -HikariPool-1 - Shutdown initiated...
+2020-11-12 20:40:50.444 INFO [Thread-34]com.zaxxer.hikari.HikariDataSource.close:352 -HikariPool-1 - Shutdown completed.
+2020-11-12 20:40:51.121 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarting:50 -Starting FruitAndVegetableShop on DESKTOP-INU083G with PID 13368 (D:\IDEA_project\FruitAndVegetableShop\target\classes started by 82320 in D:\IDEA_project\FruitAndVegetableShop)
+2020-11-12 20:40:51.122 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStartupProfileInfo:651 -The following profiles are active: dev
+2020-11-12 20:40:51.742 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2020-11-12 20:40:51.744 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-12 20:40:51.745 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2020-11-12 20:40:51.746 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2020-11-12 20:40:51.790 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2020-11-12 20:40:51.791 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:284 -Root WebApplicationContext: initialization completed in 667 ms
+2020-11-12 20:40:52.551 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-12 20:40:58.405 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2020-11-12 20:40:58.499 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2020-11-12 20:40:58.515 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:202 -Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-12 20:40:58.522 INFO [restartedMain]com.yjq.programmer.FruitAndVegetableShop.logStarted:59 -Started FruitAndVegetableShop in 7.443 seconds (JVM running for 234.154)
+2020-11-12 20:40:58.539 INFO [restartedMain]o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent:63 -Condition evaluation unchanged
+2020-11-12 20:40:58.540 INFO [http-nio-8080-exec-10]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-12 20:40:58.544 INFO [http-nio-8080-exec-10]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2020-11-12 20:40:58.555 INFO [http-nio-8080-exec-10]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 10 ms
+2020-11-12 20:40:58.558 INFO [http-nio-8080-exec-10]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:34 -当前URL=/admin/index/index
+2020-11-12 20:40:58.560 INFO [http-nio-8080-exec-10]c.yjq.programmer.interceptor.admin.AdminLoginInterceptor.preHandle:50 -没有登录或session失效，跳转登录界面！当前URL={}/admin/index/index
+2020-11-12 20:40:59.016 INFO [http-nio-8080-exec-2]com.yjq.programmer.controller.common.CpachaController.generateCpacha:51 -验证码成功生成，method=admin_login,value=iQxR
+2020-11-12 20:41:15.062 INFO [http-nio-8080-exec-8]com.zaxxer.hikari.HikariDataSource.getConnection:110 -HikariPool-2 - Starting...
+2020-11-12 20:41:15.067 INFO [http-nio-8080-exec-8]com.zaxxer.hikari.HikariDataSource.getConnection:123 -HikariPool-2 - Start completed.
+2020-11-12 20:41:15.164 INFO [http-nio-8080-exec-5]freemarker.beans.info:64 -Detected multiple classes with the same name, "com.yjq.programmer.pojo.admin.Admin". Assuming it was a class-reloading. Clearing class introspection caches to release old data.
