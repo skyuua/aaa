@@ -7,12 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<form action="<%=request.getContextPath()%>/LoginTestServlet" method="post">
-<!--name属性要和实体类的属性一致，不然BeanUtil生成不了-->
-姓名：<input name="name" type="text" /><br>
-邮箱：<input name="email" type="text"/><br>
-年龄：<input name="age" type="text"/><b></b>
-<input type="submit" value="提交"/>
+<a href="#">fsfsfsfsf</a>
 </form>
 </body>
 </html>
